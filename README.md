@@ -21,7 +21,7 @@ A simple Python script to manage and apply GRUB themes on Linux systems. This to
 
 1. Clone this repository or download the script:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Darkeox34/grubthemechanger.git
 cd grub-theme-manager
 ```
 
